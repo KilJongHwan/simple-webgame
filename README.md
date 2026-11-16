@@ -1,4 +1,4 @@
-# Curse Orb / 呪いの珠
+# 저주 구슬 / 呪いの珠
 
 Play: https://kiljonghwan.github.io/simple-webgame/
 
